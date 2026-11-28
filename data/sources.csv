@@ -1,0 +1,140 @@
+﻿no,id,title,category,repo,path,owner,kind,state,stars,updated,url,note
+01,stars:100000-stars,"100,000 Stars",看 / Visual,100000-stars,100000-stars,bear20252026,shelf,shelf,0,2026-11-28,https://bear20252026.github.io/100000-stars/,"可欣赏：Chrome Experiment「100,000 Stars」部署版，含原始星表数据与漫游导览。"
+02,paper:a-small-light,A Small Light,看 / Visual,paper-widgets,a-small-light,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/a-small-light/,Paper 原分类：scene；按“用户主要动作”重判。
+03,frontier7:aeolis-01,AEOLIS 01,看 / Visual,frontier-shelf-07,sites/aeolis-01/index.html,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/frontier-shelf-07/sites/aeolis-01/,Frontier VII 逐站分架；默认 Visual，工具/玩法单独标出。
+04,paper:aetheria,Aetheria,看 / Visual,paper-widgets,aetheria,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/aetheria/,Paper 原分类：scene；按“用户主要动作”重判。
+05,paper:aetheria-panorama,Aetheria — Panorama,看 / Visual,paper-widgets,aetheria-panorama,bear20252026,workshop,workshop,0,,https://bear20252026.github.io/paper-widgets/aetheria-panorama/,Paper 原分类：scene；按“用户主要动作”重判。
+06,paper:anywhere,Anywhere,看 / Visual,paper-widgets,anywhere,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/anywhere/,Paper 原分类：page；按“用户主要动作”重判。
+07,paper:asteroid-b612,Asteroid B612,看 / Visual,paper-widgets,asteroid-b612,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/asteroid-b612/,Paper 原分类：scene；按“用户主要动作”重判。
+08,paper:atx-bench-build,ATX — Bench Build Study,看 / Visual,paper-widgets,atx-bench-build,bear20252026,workshop,workshop,0,,https://bear20252026.github.io/paper-widgets/atx-bench-build/,Paper 原分类：object；按“用户主要动作”重判。
+09,frontier7:jellyfish,Aurelia,看 / Visual,frontier-shelf-07,sites/jellyfish/index.html,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/frontier-shelf-07/sites/jellyfish/,Frontier VII 逐站分架；默认 Visual，工具/玩法单独标出。
+10,paper:cathedral-walk,Cathedral Walk,看 / Visual,paper-widgets,cathedral-walk,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/cathedral-walk/,Paper 原分类：scene；按“用户主要动作”重判。
+11,paper:chaco-canyon,Chaco Canyon,看 / Visual,paper-widgets,chaco-canyon,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/chaco-canyon/,Paper 原分类：scene；按“用户主要动作”重判。
+12,zoom1:day-in-day-in,"Day In, Day In",看 / Visual,zoom1,zoom1,bear20252026,shelf,shelf,0,2026-11-27,https://bear20252026.github.io/zoom1/,可欣赏：从 bear20252026/zoom1 的 fork 部署；滚动向内漫游。
+13,paper:discography,Discography,看 / Visual,paper-widgets,discography,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/discography/,Paper 原分类：object；按“用户主要动作”重判。
+14,paper:dormitory-year-one,Dormitory — Year One,看 / Visual,paper-widgets,dormitory-year-one,bear20252026,workshop,workshop,0,,https://bear20252026.github.io/paper-widgets/dormitory-year-one/,Paper 原分类：scene；按“用户主要动作”重判。
+15,paper:earshot-fennec,EARSHOT,看 / Visual,paper-widgets,earshot-fennec,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/earshot-fennec/,Paper 原分类：page；按“用户主要动作”重判。
+16,paper:eiffel-tower-3d,Eiffel Tower 3D,看 / Visual,paper-widgets,eiffel-tower-3d,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/eiffel-tower-3d/,Paper 原分类：scene；按“用户主要动作”重判。
+17,paper:eiffel-construction,Eiffel Tower — 14-Second Build,看 / Visual,paper-widgets,eiffel-construction,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/eiffel-construction/,Paper 原分类：scene；按“用户主要动作”重判。
+18,paper:rain-dance,Eight Beats of Rain,看 / Visual,paper-widgets,rain-dance,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/rain-dance/,Paper 原分类：scene；按“用户主要动作”重判。
+19,paper:espresso-bench,Espresso Bench — Bean to Cup,看 / Visual,paper-widgets,espresso-bench,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/espresso-bench/,Paper 原分类：page；按“用户主要动作”重判。
+20,frontier7:field-buffer,FIELD,看 / Visual,frontier-shelf-07,sites/field-buffer/index.html,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/frontier-shelf-07/sites/field-buffer/,Frontier VII 逐站分架；默认 Visual，工具/玩法单独标出。
+21,frontier7:fish-and-me,Fish&me,看 / Visual,frontier-shelf-07,sites/fish-and-me/index.html,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/frontier-shelf-07/sites/fish-and-me/,Frontier VII 逐站分架；默认 Visual，工具/玩法单独标出。
+22,paper:fl3-first-cut,FL3 Bench Study — First Cut,看 / Visual,paper-widgets,fl3-first-cut,bear20252026,workshop,workshop,0,,https://bear20252026.github.io/paper-widgets/fl3-first-cut/,Paper 原分类：object；按“用户主要动作”重判。
+23,paper:fluid-simulation,Fluid Simulation,看 / Visual,paper-widgets,fluid-simulation,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/fluid-simulation/,Paper 原分类：widget；按“用户主要动作”重判。
+24,paper:golden-hour-fox,Golden Hour Fox,看 / Visual,paper-widgets,golden-hour-fox,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/golden-hour-fox/,Paper 原分类：scene；按“用户主要动作”重判。
+25,paper:golden-hour-fox-alt,Golden Hour Fox — Close Cut,看 / Visual,paper-widgets,golden-hour-fox-alt,bear20252026,workshop,workshop,0,,https://bear20252026.github.io/paper-widgets/golden-hour-fox-alt/,Paper 原分类：scene；按“用户主要动作”重判。
+26,paper:great-white-jelly,Great White Jelly,看 / Visual,paper-widgets,great-white-jelly,bear20252026,workshop,workshop,0,,https://bear20252026.github.io/paper-widgets/great-white-jelly/,Paper 原分类：object；按“用户主要动作”重判。
+27,games:greyhaven-harbour,greyhaven-harbour,看 / Visual,games,greyhaven-harbour,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/games/greyhaven-harbour/,港口探索，主动作是“看/漫游”。
+28,paper:half-the-sky,Half the Sky,看 / Visual,paper-widgets,half-the-sky,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/half-the-sky/,Paper 原分类：scene；按“用户主要动作”重判。
+29,paper:hollywood-sky-island,Hollywood — Voxel Sky Island,看 / Visual,paper-widgets,hollywood-sky-island,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/hollywood-sky-island/,Paper 原分类：scene；按“用户主要动作”重判。
+30,frontier7:inmotion,IN MOTION,看 / Visual,frontier-shelf-07,sites/inmotion/index.html,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/frontier-shelf-07/sites/inmotion/,Frontier VII 逐站分架；默认 Visual，工具/玩法单独标出。
+31,frontier7:k3-microscope,K3 Compound Microscope,看 / Visual,frontier-shelf-07,sites/k3-microscope/index.html,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/frontier-shelf-07/sites/k3-microscope/,Frontier VII 逐站分架；默认 Visual，工具/玩法单独标出。
+32,frontier7:k3-piano-sound-path,KIMI · From Touch to Sound,看 / Visual,frontier-shelf-07,sites/k3-piano-sound-path/index.html,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/frontier-shelf-07/sites/k3-piano-sound-path/,Frontier VII 逐站分架；默认 Visual，工具/玩法单独标出。
+33,frontier7:open-heart,Kimi — Open Heart,看 / Visual,frontier-shelf-07,sites/open-heart/index.html,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/frontier-shelf-07/sites/open-heart/,Frontier VII 逐站分架；默认 Visual，工具/玩法单独标出。
+34,paper:koerner-hall,Koerner Hall — Spatial Acoustics,看 / Visual,paper-widgets,koerner-hall,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/koerner-hall/,Paper 原分类：scene；按“用户主要动作”重判。
+35,paper:koi-garden,Koi Garden,看 / Visual,paper-widgets,koi-garden,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/koi-garden/,Paper 原分类：scene；按“用户主要动作”重判。
+36,paper:koi-cloud-sea,Koi of the Cloud Sea,看 / Visual,paper-widgets,koi-cloud-sea,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/koi-cloud-sea/,Paper 原分类：scene；按“用户主要动作”重判。
+37,paper:koi-cloud-sea-stylized,Koi of the Cloud Sea — Stylized,看 / Visual,paper-widgets,koi-cloud-sea-stylized,bear20252026,workshop,workshop,0,,https://bear20252026.github.io/paper-widgets/koi-cloud-sea-stylized/,Paper 原分类：scene；按“用户主要动作”重判。
+38,paper:lamborghini-fl3,Lamborghini FL3 — Bench Study,看 / Visual,paper-widgets,lamborghini-fl3,bear20252026,workshop,workshop,0,,https://bear20252026.github.io/paper-widgets/lamborghini-fl3/,Paper 原分类：object；按“用户主要动作”重判。
+39,frontier7:limonaia,Limonaia,看 / Visual,frontier-shelf-07,sites/limonaia/index.html,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/frontier-shelf-07/sites/limonaia/,Frontier VII 逐站分架；默认 Visual，工具/玩法单独标出。
+40,paper:lumiloom,Lumiloom,看 / Visual,paper-widgets,lumiloom,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/lumiloom/,Paper 原分类：scene；按“用户主要动作”重判。
+41,paper:lumina-festival,Lumina Festival,看 / Visual,paper-widgets,lumina-festival,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/lumina-festival/,Paper 原分类：page；按“用户主要动作”重判。
+42,paper:e-commerce-landing-page,Material Flask,看 / Visual,paper-widgets,e-commerce-landing-page,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/e-commerce-landing-page/,Paper 原分类：page；按“用户主要动作”重判。
+43,frontier7:mnt-reform,MNT Reform,看 / Visual,frontier-shelf-07,sites/mnt-reform/index.html,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/frontier-shelf-07/sites/mnt-reform/,Frontier VII 逐站分架；默认 Visual，工具/玩法单独标出。
+44,paper:mochi-puff,Mochi-Puff,看 / Visual,paper-widgets,mochi-puff,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/mochi-puff/,Paper 原分类：object；按“用户主要动作”重判。
+45,frontier7:moonshot-concept-r,MOONSHOT Concept R,看 / Visual,frontier-shelf-07,sites/moonshot-concept-r/index.html,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/frontier-shelf-07/sites/moonshot-concept-r/,Frontier VII 逐站分架；默认 Visual，工具/玩法单独标出。
+46,frontier7:ev7-helmet,Moonshot EV-7,看 / Visual,frontier-shelf-07,sites/ev7-helmet/index.html,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/frontier-shelf-07/sites/ev7-helmet/,Frontier VII 逐站分架；默认 Visual，工具/玩法单独标出。
+47,paper:nautilus-nx-12,Nautilus NX-12,看 / Visual,paper-widgets,nautilus-nx-12,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/nautilus-nx-12/,Paper 原分类：object；按“用户主要动作”重判。
+48,frontier7:open-sea-webgpu,Open Sea,看 / Visual,frontier-shelf-07,sites/open-sea-webgpu/index.html,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/frontier-shelf-07/sites/open-sea-webgpu/,Frontier VII 逐站分架；默认 Visual，工具/玩法单独标出。
+49,paper:prism,Prism,看 / Visual,paper-widgets,prism,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/prism/,Paper 原分类：scene；按“用户主要动作”重判。
+50,frontier7:r4360,R-4360 Wasp Major,看 / Visual,frontier-shelf-07,sites/r4360/index.html,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/frontier-shelf-07/sites/r4360/,Frontier VII 逐站分架；默认 Visual，工具/玩法单独标出。
+51,paper:rain-alley-source,Rain Alley — Source Layer,看 / Visual,paper-widgets,rain-alley-source,bear20252026,workshop,workshop,0,,https://bear20252026.github.io/paper-widgets/rain-alley-source/,Paper 原分类：scene；按“用户主要动作”重判。
+52,paper:rain-waltz,Rain Waltz,看 / Visual,paper-widgets,rain-waltz,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/rain-waltz/,Paper 原分类：scene；按“用户主要动作”重判。
+53,games:raytraced-map,raytraced-map,看 / Visual,games,raytraced-map,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/games/raytraced-map/,地图渲染器，主动作是“看”。
+54,paper:rose-garden,Rose Garden,看 / Visual,paper-widgets,rose-garden,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/rose-garden/,Paper 原分类：scene；按“用户主要动作”重判。
+55,paper:vinyl-archive-early,Sable — Archive Wall,看 / Visual,paper-widgets,vinyl-archive-early,bear20252026,workshop,workshop,0,,https://bear20252026.github.io/paper-widgets/vinyl-archive-early/,Paper 原分类：object；按“用户主要动作”重判。
+56,paper:vinyl-archive,Sable — Disc Archive,看 / Visual,paper-widgets,vinyl-archive,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/vinyl-archive/,Paper 原分类：object；按“用户主要动作”重判。
+57,paper:blossom-valley,Sakura Storm Valley,看 / Visual,paper-widgets,blossom-valley,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/blossom-valley/,Paper 原分类：scene；按“用户主要动作”重判。
+58,paper:saltus-sx8,Saltus SX-8,看 / Visual,paper-widgets,saltus-sx8,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/saltus-sx8/,Paper 原分类：object；按“用户主要动作”重判。
+59,paper:seam-transitions,Seam Transitions,看 / Visual,paper-widgets,seam-transitions,bear20252026,workshop,workshop,0,,https://bear20252026.github.io/paper-widgets/seam-transitions/,Paper 原分类：widget；按“用户主要动作”重判。
+60,paper:seraphina-frostweaver,Seraphina — The Frostweaver,看 / Visual,paper-widgets,seraphina-frostweaver,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/seraphina-frostweaver/,Paper 原分类：object；按“用户主要动作”重判。
+61,paper:slop-newyork,Slop New York,看 / Visual,paper-widgets,slop-newyork,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/slop-newyork/,Paper 原分类：scene；按“用户主要动作”重判。
+62,games:smallsf,smallsf,看 / Visual,games,smallsf,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/games/smallsf/,城市站点漫游，主动作是“看”。
+63,paper:splat-fashion,Splat Fashion,看 / Visual,paper-widgets,splat-fashion,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/splat-fashion/,Paper 原分类：object；按“用户主要动作”重判。
+64,paper:starship-flight,Starship Flight Study,看 / Visual,paper-widgets,starship-flight,bear20252026,workshop,workshop,0,,https://bear20252026.github.io/paper-widgets/starship-flight/,Paper 原分类：object；按“用户主要动作”重判。
+65,paper:sunny-well,Sunny Well,看 / Visual,paper-widgets,sunny-well,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/sunny-well/,Paper 原分类：scene；按“用户主要动作”重判。
+66,paper:aetherwick-dormitory,The Dormitory,看 / Visual,paper-widgets,aetherwick-dormitory,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/aetherwick-dormitory/,Paper 原分类：scene；按“用户主要动作”重判。
+67,paper:dormitory-restored,The Dormitory — Restored,看 / Visual,paper-widgets,dormitory-restored,bear20252026,workshop,workshop,0,,https://bear20252026.github.io/paper-widgets/dormitory-restored/,Paper 原分类：scene；按“用户主要动作”重判。
+68,paper:ivory-sanctuary,The Ivory Sanctuary,看 / Visual,paper-widgets,ivory-sanctuary,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/ivory-sanctuary/,Paper 原分类：scene；按“用户主要动作”重判。
+69,paper:lamplighter,The Lamplighter,看 / Visual,paper-widgets,lamplighter,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/lamplighter/,Paper 原分类：scene；按“用户主要动作”重判。
+70,paper:little-prince,The Little Prince,看 / Visual,paper-widgets,little-prince,bear20252026,workshop,workshop,0,,https://bear20252026.github.io/paper-widgets/little-prince/,Paper 原分类：object；按“用户主要动作”重判。
+71,paper:sunlit-crown,The Sunlit Crown,看 / Visual,paper-widgets,sunlit-crown,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/sunlit-crown/,Paper 原分类：scene；按“用户主要动作”重判。
+72,paper:vessel-threejs-showcase,The Vessel — Procedural Showcase,看 / Visual,paper-widgets,vessel-threejs-showcase,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/vessel-threejs-showcase/,Paper 原分类：object；按“用户主要动作”重判。
+73,paper:vinyl-player,Vinyl — Record Player,看 / Visual,paper-widgets,vinyl-player,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/vinyl-player/,Paper 原分类：object；按“用户主要动作”重判。
+74,paper:webgl-bulge-effect,WebGL Bulge Effect,看 / Visual,paper-widgets,webgl-bulge-effect,bear20252026,workshop,workshop,0,,https://bear20252026.github.io/paper-widgets/webgl-bulge-effect/,Paper 原分类：widget；按“用户主要动作”重判。
+75,paper:westbrook-central,Westbrook Central,看 / Visual,paper-widgets,westbrook-central,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/westbrook-central/,Paper 原分类：scene；按“用户主要动作”重判。
+76,frontier7:light-color-dance,光色之舞,看 / Visual,frontier-shelf-07,sites/light-color-dance/index.html,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/frontier-shelf-07/sites/light-color-dance/,Frontier VII 逐站分架；默认 Visual，工具/玩法单独标出。
+77,frontier7:gringotts-lighting,古灵阁,看 / Visual,frontier-shelf-07,sites/gringotts-lighting/index.html,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/frontier-shelf-07/sites/gringotts-lighting/,Frontier VII 逐站分架；默认 Visual，工具/玩法单独标出。
+78,paper:wechat-unfolded,微信 unfolded,看 / Visual,paper-widgets,wechat-unfolded,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/wechat-unfolded/,Paper 原分类：page；按“用户主要动作”重判。
+79,frontier7:sunset-collector,日落收藏家,看 / Visual,frontier-shelf-07,sites/sunset-collector/index.html,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/frontier-shelf-07/sites/sunset-collector/,Frontier VII 逐站分架；默认 Visual，工具/玩法单独标出。
+80,frontier7:tiffany-lamp,蒂凡尼彩绘玻璃台灯,看 / Visual,frontier-shelf-07,sites/tiffany-lamp/index.html,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/frontier-shelf-07/sites/tiffany-lamp/,Frontier VII 逐站分架；默认 Visual，工具/玩法单独标出。
+81,frontier7:cz5,长征五号,看 / Visual,frontier-shelf-07,sites/cz5/index.html,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/frontier-shelf-07/sites/cz5/,Frontier VII 逐站分架；默认 Visual，工具/玩法单独标出。
+82,paper:argon-tennis,Argon Tennis,玩 / Play,paper-widgets,argon-tennis,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/argon-tennis/,Paper 原分类：play；按“用户主要动作”重判。
+83,games:boo-mas,boo-mas,玩 / Play,games,boo-mas,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/games/boo-mas/,按 Games 合集内实际体验分架。
+84,paper:chamonix-ski-sim,Chamonix — Off-Piste,玩 / Play,paper-widgets,chamonix-ski-sim,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/chamonix-ski-sim/,Paper 原分类：play；按“用户主要动作”重判。
+85,games:cinderwatch,cinderwatch,玩 / Play,games,cinderwatch,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/games/cinderwatch/,按 Games 合集内实际体验分架。
+86,games:curllmooha,curllmooha,玩 / Play,games,curllmooha,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/games/curllmooha/,可漫游草地世界，归 Play 但注明无输赢。
+87,paper:dusk-patrol,Dusk Patrol,玩 / Play,paper-widgets,dusk-patrol,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/dusk-patrol/,Paper 原分类：play；按“用户主要动作”重判。
+88,paper:dusk-patrol-source-cut,Dusk Patrol — Source Cut,玩 / Play,paper-widgets,dusk-patrol-source-cut,bear20252026,workshop,workshop,0,,https://bear20252026.github.io/paper-widgets/dusk-patrol-source-cut/,Paper 原分类：play；按“用户主要动作”重判。
+89,paper:ensemble,Ensemble,玩 / Play,paper-widgets,ensemble,bear20252026,workshop,workshop,0,,https://bear20252026.github.io/paper-widgets/ensemble/,Paper 原分类：play；按“用户主要动作”重判。
+90,frontier7:goodluck-bobing,Goodluck,玩 / Play,frontier-shelf-07,sites/goodluck-bobing/index.html,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/frontier-shelf-07/sites/goodluck-bobing/,Frontier VII 逐站分架；默认 Visual，工具/玩法单独标出。
+91,games:gtashenzhen,gtashenzhen,玩 / Play,games,gtashenzhen,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/games/gtashenzhen/,按 Games 合集内实际体验分架。
+92,paper:jelly-zoo,Jelly Zoo,玩 / Play,paper-widgets,jelly-zoo,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/jelly-zoo/,Paper 原分类：play；按“用户主要动作”重判。
+93,games:knockbox,knockbox,玩 / Play,games,knockbox,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/games/knockbox/,按 Games 合集内实际体验分架。
+94,games:littlecity,littlecity,玩 / Play,games,littlecity,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/games/littlecity/,按 Games 合集内实际体验分架。
+95,paper:minionslab,Minion Lab,玩 / Play,paper-widgets,minionslab,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/minionslab/,Paper 原分类：play；按“用户主要动作”重判。
+96,paper:paper-snake,Paper Snake,玩 / Play,paper-widgets,paper-snake,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/paper-snake/,Paper 原分类：play；按“用户主要动作”重判。
+97,paper:parking-bench,Parking Bench,玩 / Play,paper-widgets,parking-bench,bear20252026,workshop,workshop,0,,https://bear20252026.github.io/paper-widgets/parking-bench/,Paper 原分类：play；按“用户主要动作”重判。
+98,games:pet-the-cat,pet-the-cat,玩 / Play,games,pet-the-cat,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/games/pet-the-cat/,按 Games 合集内实际体验分架。
+99,paper:pixel-jazz,Pixel Jazz Band,玩 / Play,paper-widgets,pixel-jazz,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/pixel-jazz/,Paper 原分类：play；按“用户主要动作”重判。
+100,paper:puzzlecard,Puzzle Card,玩 / Play,paper-widgets,puzzlecard,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/puzzlecard/,Paper 原分类：play；按“用户主要动作”重判。
+101,paper:qr-pet,QR Pet,玩 / Play,paper-widgets,qr-pet,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/qr-pet/,Paper 原分类：play；按“用户主要动作”重判。
+102,paper:skyhoop-cup,Skyhoop Cup,玩 / Play,paper-widgets,skyhoop-cup,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/skyhoop-cup/,Paper 原分类：play；按“用户主要动作”重判。
+103,paper:sparrow-sim,Sparrow,玩 / Play,paper-widgets,sparrow-sim,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/sparrow-sim/,Paper 原分类：play；按“用户主要动作”重判。
+104,paper:starry-bam,Starry Bam — Counting Stars at Night,玩 / Play,paper-widgets,starry-bam,bear20252026,workshop,workshop,0,,https://bear20252026.github.io/paper-widgets/starry-bam/,Paper 原分类：play；按“用户主要动作”重判。
+105,paper:text-grow,Text Grow,玩 / Play,paper-widgets,text-grow,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/text-grow/,Paper 原分类：widget；按“用户主要动作”重判。
+106,frontier7:timber-tower,TIMBER TOWER,玩 / Play,frontier-shelf-07,sites/timber-tower/index.html,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/frontier-shelf-07/sites/timber-tower/,Frontier VII 逐站分架；默认 Visual，工具/玩法单独标出。
+107,games:titan-6x6,titan-6x6,玩 / Play,games,titan-6x6,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/games/titan-6x6/,按 Games 合集内实际体验分架。
+108,paper:wizard-chess,Wizard Chess,玩 / Play,paper-widgets,wizard-chess,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/wizard-chess/,Paper 原分类：play；按“用户主要动作”重判。
+109,paper:yarn-world,Yarn World,玩 / Play,paper-widgets,yarn-world,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/yarn-world/,Paper 原分类：play；按“用户主要动作”重判。
+110,paper:carrot-defense,保卫萝卜 · Carrot Defense,玩 / Play,paper-widgets,carrot-defense,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/carrot-defense/,Paper 原分类：play；按“用户主要动作”重判。
+111,paper:huarongdao,华容道 · Klotski,玩 / Play,paper-widgets,huarongdao,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/huarongdao/,Paper 原分类：play；按“用户主要动作”重判。
+112,paper:ai-talk-radio,AI Talk Radio,做 / Tool,paper-widgets,ai-talk-radio,bear20252026,workshop,workshop,0,,https://bear20252026.github.io/paper-widgets/ai-talk-radio/,Paper 原分类：widget；按“用户主要动作”重判。
+113,paper:alphaqubit,AlphaQubit,做 / Tool,paper-widgets,alphaqubit,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/alphaqubit/,Paper 原分类：data；按“用户主要动作”重判。
+114,paper:amara-dashboard,Amara,做 / Tool,paper-widgets,amara-dashboard,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/amara-dashboard/,Paper 原分类：data；按“用户主要动作”重判。
+115,paper:aquarium-toggle,Aquarium Toggle,做 / Tool,paper-widgets,aquarium-toggle,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/aquarium-toggle/,Paper 原分类：widget；按“用户主要动作”重判。
+116,paper:audio-storybooks,Audio Storybooks,做 / Tool,paper-widgets,audio-storybooks,bear20252026,workshop,workshop,0,,https://bear20252026.github.io/paper-widgets/audio-storybooks/,Paper 原分类：page；按“用户主要动作”重判。
+117,paper:client-dashboard,Client Dashboard,做 / Tool,paper-widgets,client-dashboard,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/client-dashboard/,Paper 原分类：data；按“用户主要动作”重判。
+118,games:facade-crafter,facade-crafter,做 / Tool,games,facade-crafter,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/games/facade-crafter/,店面生成器，主动作是“做”不是“玩”。
+119,paper:finance-dashboard,Finance Dashboard,做 / Tool,paper-widgets,finance-dashboard,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/finance-dashboard/,Paper 原分类：data；按“用户主要动作”重判。
+120,paper:interactive-data-dashboard,Folio — Data Dashboard,做 / Tool,paper-widgets,interactive-data-dashboard,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/interactive-data-dashboard/,Paper 原分类：data；按“用户主要动作”重判。
+121,paper:heart-lab,heart lab,做 / Tool,paper-widgets,heart-lab,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/heart-lab/,Paper 原分类：widget；按“用户主要动作”重判。
+122,paper:night-dial,Night Dial,做 / Tool,paper-widgets,night-dial,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/night-dial/,Paper 原分类：widget；按“用户主要动作”重判。
+123,paper:orbend-dashboard,Orbend,做 / Tool,paper-widgets,orbend-dashboard,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/orbend-dashboard/,Paper 原分类：data；按“用户主要动作”重判。
+124,paper:paper-widgets,Paper Widgets,做 / Tool,paper-widgets,paper-widgets,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/paper-widgets/,Paper 原分类：widget；按“用户主要动作”重判。
+125,paper:pip-login,Pip Login,做 / Tool,paper-widgets,pip-login,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/pip-login/,Paper 原分类：widget；按“用户主要动作”重判。
+126,ricoui:ricoui-blocks,RicoUI Blocks,做 / Tool,ricoui-blocks,ricoui-blocks,ricocc,shelf,shelf,0,2026-11-13,https://github.com/ricocc/ricoui-blocks,新加入：外部 MIT 组件库，按工具收架。
+127,paper:rollbank-dashboard,RollBank Dashboard,做 / Tool,paper-widgets,rollbank-dashboard,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/rollbank-dashboard/,Paper 原分类：data；按“用户主要动作”重判。
+128,paper:expense-receipts-analytics,Shoebox — Spend Audit,做 / Tool,paper-widgets,expense-receipts-analytics,bear20252026,workshop,workshop,0,,https://bear20252026.github.io/paper-widgets/expense-receipts-analytics/,Paper 原分类：data；按“用户主要动作”重判。
+129,paper:room-style-visualizer,Space Lift — Room Visualizer,做 / Tool,paper-widgets,room-style-visualizer,bear20252026,workshop,workshop,0,,https://bear20252026.github.io/paper-widgets/room-style-visualizer/,Paper 原分类：object；按“用户主要动作”重判。
+130,paper:sundrel-metrics,Sundrel Metrics,做 / Tool,paper-widgets,sundrel-metrics,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/sundrel-metrics/,Paper 原分类：data；按“用户主要动作”重判。
+131,paper:building-configurator-threejs,VolumeCraft — Parametric Building Configurator,做 / Tool,paper-widgets,building-configurator-threejs,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/building-configurator-threejs/,Paper 原分类：object；按“用户主要动作”重判。
+132,paper:wechat-login,WeChat Login,做 / Tool,paper-widgets,wechat-login,bear20252026,workshop,workshop,0,,https://bear20252026.github.io/paper-widgets/wechat-login/,Paper 原分类：widget；按“用户主要动作”重判。
+133,paper:wetrust-console,WeTrust Console,做 / Tool,paper-widgets,wetrust-console,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/wetrust-console/,Paper 原分类：data；按“用户主要动作”重判。
+134,paper:yuanshan-crm,Yuanshan CRM,做 / Tool,paper-widgets,yuanshan-crm,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/yuanshan-crm/,Paper 原分类：data；按“用户主要动作”重判。
+135,paper:zemu-dashboard,Zemü Dashboard,做 / Tool,paper-widgets,zemu-dashboard,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/zemu-dashboard/,Paper 原分类：data；按“用户主要动作”重判。
+136,frontier7:cloud-storage,云储存,做 / Tool,frontier-shelf-07,sites/cloud-storage/index.html,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/frontier-shelf-07/sites/cloud-storage/,Frontier VII 逐站分架；默认 Visual，工具/玩法单独标出。
+137,paper:xiaolu-staff,小鹿美术 · 教务小本子,做 / Tool,paper-widgets,xiaolu-staff,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/xiaolu-staff/?locale=zh-CN#/staff,Paper 原分类：data；按“用户主要动作”重判。
+138,paper:ming-ming-name,明名 · Ming Ming,做 / Tool,paper-widgets,ming-ming-name,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/ming-ming-name/,Paper 原分类：widget；按“用户主要动作”重判。
+139,paper:every-joule,Every Joule,查 / Data,paper-widgets,every-joule,bear20252026,shelf,shelf,0,,https://bear20252026.github.io/paper-widgets/every-joule/,Paper 原分类：page；按“用户主要动作”重判。
